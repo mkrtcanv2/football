@@ -1,0 +1,31 @@
+body{
+    font-family: Roboto ;
+    background-color: greenyellow;
+    color: blue;
+}
+.q{
+    text-align: center;
+}
+.qw{
+    text-align: center;
+
+
+}
+.qwe  { 
+     border: solid 2px black;
+margin-top: 10px;
+width: 50%;
+display: flex;
+
+}
+.part1{
+    width: 50%;
+    display: flex;
+    background-size: cover;
+}
+.qwe1{
+    display: block;
+}
+.qwe2{
+    display: block;
+}
